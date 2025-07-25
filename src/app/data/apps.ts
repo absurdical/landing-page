@@ -14,5 +14,13 @@ export const apps = [
     description: "Unscramble the letters to match the picture! Save your words in a scrapbook, climb the leaderboard, and explore everyone’s creative collections.",
     url: "https://spelling.smiledust.com",
     color: "#BFDBFE"
+  },
+  {
+    id: 3,
+    symbol: "Js",
+    name: "JS Sandbox",
+    description: "Tinker with JavaScript right in your browser. Powered by Sandpack, this mini playground lets you write, edit, and instantly preview JS code — no setup needed!",
+    url: "https://sandbox.smiledust.com",
+    color: "#BBF7D0"
   }
 ];
