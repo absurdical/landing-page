@@ -5,6 +5,10 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "smiledust",
   description: "The periodic table of my web apps",
+  manifest: '/manifest.json',
+  icons: {
+      icon: '/icons-icon-192x192.png'
+  }
 };
 
 export default function RootLayout({
