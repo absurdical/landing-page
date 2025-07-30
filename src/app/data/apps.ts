@@ -22,5 +22,13 @@ export const apps = [
     description: "Tinker with JavaScript right in your browser. Powered by Sandpack, this mini playground lets you write, edit, and instantly preview JS code — no setup needed!",
     url: "https://sandbox.smiledust.com",
     color: "#BBF7D0"
+  },
+  {
+    id: 4,
+    symbol: "Tt",
+    name: "Text Translator",
+    description: "Say what they really meant. This translator decodes corporate fluff, passive-aggressive texts, and motivational rants into brutally honest clarity—or vice versa.",
+    url: "https://translator.smiledust.com",
+    color: "#FBCFE8"
   }
 ];
