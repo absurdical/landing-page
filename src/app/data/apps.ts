@@ -30,5 +30,13 @@ export const apps = [
     description: "Say what they really meant. This translator decodes corporate fluff, passive-aggressive texts, and motivational rants into brutally honest clarity—or vice versa.",
     url: "https://translator.smiledust.com",
     color: "#FBCFE8"
+  },
+  {
+    id: 5,
+    symbol: "Aq",
+    name: "Album Quiz",
+    description: "Try to guess the artist and album for Spotify's most popular artists.",
+    url: "https://quiz.smiledust.com",
+    color: "#E9D5FF"
   }
 ];
