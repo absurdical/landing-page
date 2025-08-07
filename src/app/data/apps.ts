@@ -37,6 +37,6 @@ export const apps = [
     name: "Album Quiz",
     description: "Try to guess the artist and album for Spotify's most popular artists.",
     url: "https://quiz.smiledust.com",
-    color: "#E9D5FF"
+    color: "#bd7aff"
   }
 ];
